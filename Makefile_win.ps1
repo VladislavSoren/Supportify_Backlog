@@ -1,5 +1,3 @@
-# build.ps1
-
 # Константы
 $DockerComposeMain = "docker-compose.yml"
 $EnvFile = ".env"
